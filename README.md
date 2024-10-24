@@ -35,7 +35,7 @@ Base de Datos:
 - MongoDB (MongoDB Atlas)
   
 Despliegue:
-- Netlify para el frontend
+- Netlify para el frontend: https://endearing-horse-713dd5.netlify.app/
 - PayPal para la pasarela de pago (en proceso)
 
 
